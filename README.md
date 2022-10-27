@@ -11,7 +11,7 @@ tweet and the content of the tweet. For example:
 
 In the tweet content, a word starting with the @ symbol (such as @achilles) means that user
 achilles is being mentioned by user aeneas, indicating that the tweet by aeneas was directed at
-or specically about achilles. We refer to this as a mention. Mentions are the most direct sign of
+or specifically about achilles. We refer to this as a mention. Mentions are the most direct sign of
 public communication on Twitter. Tweets can also be directed at more than one user.
 
 The mention graph is a Twitter network represented by a directed graph G = (V;E). In this
